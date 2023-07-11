@@ -570,20 +570,7 @@
                     "deleted": false,
                     "policies": [],
                     "layoutOnLoadActions": [
-                        [
-                            {
-                                "_id": "635663973c09e90010212348",
-                                "id": "635663973c09e90010212348",
-                                "collectionId": "63566371d1e1de1000000003",
-                                "confirmBeforeExecute": false,
-                                "name": "textSatus",
-                                "pluginType": "JS",
-                                "jsonPathKeys": [
-                                    "() => {\n\t\tstoreValue(\"statusVisible\", false);\n\t}"
-                                ],
-                                "timeoutInMillisecond": 10000
-                            }
-                        ]
+                        []
                     ],
                     "layoutOnCloseActions": [
                         []
@@ -3518,20 +3505,7 @@
                     "deleted": false,
                     "policies": [],
                     "layoutOnLoadActions": [
-                        [
-                            {
-                                "_id": "6350111162000a0011ef5e3b",
-                                "id": "6350111162000a0011ef5e3b",
-                                "collectionId": "63500de24f75a91100000007",
-                                "confirmBeforeExecute": false,
-                                "name": "textSatus",
-                                "pluginType": "JS",
-                                "jsonPathKeys": [
-                                    "() => {\n\t\tstoreValue(\"statusVisible\", false);\n\t}"
-                                ],
-                                "timeoutInMillisecond": 10000
-                            }
-                        ]
+                        []
                     ],
                     "layoutOnCloseActions": [
                         []
