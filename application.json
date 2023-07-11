@@ -5,7 +5,7 @@
     "organizationId": "Org",
     "isPublic": true,
     "createdAt": "2023-03-02T13:50:57.853Z",
-    "updatedAt": "2023-04-11T17:56:41.511Z",
+    "updatedAt": "2023-07-11T09:38:10.422Z",
     "deleted": false,
     "pages": [
         {
@@ -80,7 +80,7 @@
     "is_custom_auth": true,
     "auth_mode_setting": {
         "login_id": "Login",
-        "auth_node": "https://auth-634555f5676d7a12000001d5.ubos.tech/check_token",
+        "auth_node": "/check_token",
         "registry_id": "Registration",
         "other_pages": [
             "queryToResetPassword",
